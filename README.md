@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/KangJinhuyk">
-    <img alt="Jinhuyk bot logo" height="200" src="https://i.imgur.com/xvYDAsD.jpeg">
+    <img alt="Jinhuyk bot logo" height="400" src="https://files.catbox.moe/59iafh.jpg">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
   <a href="https://github.com/KangJinhuyk/JINHUYK-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KangJinhuyk/JINHUYK-MD?label=Watching&style=social"></a>
 </p>
 
- **TKM-bot Deployment Methods**
+ **JINHUYK-MD Deployment Methods**
 
 •FORK THIS REPO
  <br>
