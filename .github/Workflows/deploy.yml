@@ -1,13 +1,18 @@
-name: NodeJS with Webpack
+name: Node.js CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
   pull_request:
-    branches: [ "main" ]
+    branches:
+      - main
+  schedule:
+    - cron: '0 */6 * * *'  
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
 
     strategy:
@@ -15,14 +20,24 @@ jobs:
         node-version: [20.x]
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v4
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
 
-    - name: Build
+    - name: Install dependencies
+      run: npm install
+
+    - name: Install FFmpeg
+      run: sudo apt-get install -y ffmpeg
+
+    - name: Start application with timeout
       run: |
-        npm install
-        npx webpack
+        timeout 21590s npm start  # Limits run to 5h 59m 50s
+
+    - name: Save state (Optional)
+      run: |
+        ./save_state.sh
