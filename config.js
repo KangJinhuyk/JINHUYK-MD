@@ -18,8 +18,8 @@ global.github = process.env.GITHUB || "https://github.com/KangJinhuyk/JINHUYK-MD
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/TAGPcMC.jpeg,https://files.catbox.moe/59iafh.jpg,https://files.catbox.moe/jynitk.jpg,https://files.catbox.moe/dohubs.jpg,https://files.catbox.moe/nm85c3.jpg";
-global.devs = "https://wa.me/242067274660 , https://wa.me/243849962848";
-global.sudo = process.env.SUDO || "242067274660";
+global.devs = "https://wa.me/50943469824 , https://wa.me/50943469824";
+global.sudo = process.env.SUDO || "50943469824";
 global.owner = process.env.OWNER_NUMBER || "PUT YOUR OWNER NUMBER";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
@@ -41,7 +41,7 @@ global.read_status_from = process.env.READ_STATUS_FROM || "";
 global.api_smd = "https://api-smd-1.vercel.app";
 global.scan = "https://unknown-md-sessions-generator-1.onrender.com";
 
-global.SESSION_ID =
+global.SESSION_ID =eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0JlU1lBSnRCMngyKy9QNTg4dHdETjhVUmtWWEc5R2J1OUJ2elVVdTVYZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibEtVZTlvalRmUmpQbjkvd2FVd2x6TEVTaUZoYTBjUmEybHRqYzdPUXpoQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJjUHFEYytaMzc1SXA0ZDJsRng1ZXprN0QrS1pNTy93cnRSY0ZSbDNLNzJFPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJid2RIYVVDMFlIZ1Zob0Z5eEZONThQaDFnTjFSNHYrUUNVVm5zeHpFQ20wPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndOZjZxZEpadDM2NGY0NCtOSEVGZXpOaHd2Q1BldlJ0WGdINTduRmVzSFU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ijg0MG9FL1pDdWI3QS9WQXNIUzE4V2dFZHBlU0pIckZmSjdhZjVPRi9QeU09In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU0lmUnRoRGlEWmdSV0RsOWFoenF2MmQwN2ZoZHp3UW9EZGJkZGZUNHcyaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWGNBeDQ4cjFjNXNUUDRLSkRLTWZiM1VodmhIU2JsZ2gxMVgzY2dpdFR3Zz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik5qZUw5bWxuUzJmTkJPYi95K2locC9Fd0lxVTZaNUhkSGtNQjlSblJUcC9LcHVyTWt5MzFzM3IxMzd2M2thUlhRWFo0R2hzeHNVWlBFcnpubytQWkFnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTM4LCJhZHZTZWNyZXRLZXkiOiJObDZ1V2lGOFJWb3NCODNNd1BNVmZXNG53b0lzaUN6WFNBaUZoZ09FZThFPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ4TmdUUGdneVJlR3o1alBzVlU2ZHhBIiwicGhvbmVJZCI6Ijg1NDJjNmYxLTg1NjEtNDNiZC04NDVkLTYzNDI2MDIyNjNmNSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCSkYzQlBRcXZGWVg3OHgzZUE4VmJjMCtWanM9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidmlJME5PZlF6QXFzNGorc2I0WWl6NXF1bFQ4PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlY3VEpYRjUzIiwibWUiOnsiaWQiOiI1MDk0MzQ2OTgyNDoxMkBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDUDNBeEZjUTFzZm91Z1lZQVNBQUtBQT0iLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiZk5hbDBJRUl0dWtwTVI0RnVJVXRhSlhiMWpqRng4MXF2MTduRENVMFpDbz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiM2gxZW5JYU1XNHNudFF0emhueFJNYjdmUkpqNjg5bEExRnJvb1pCZzdzRzZUQlNvMHJ5aWxhZnpHdTNTb1VpTm1KZGJYQXNpenRWd1NqdjVSbkVWRFE9PSIsImRldmljZVNpZ25hdHVyZSI6InF2Q29xbjJpL1AxSDBha3lOT3FDYUpHTWQ5RXF3MCtzOXhpbGs1VDBjRWlFdTVQdllhTnkxbmw5VTRaZVRVNDY2cU9yN1l4T2U3MGhzbWl4c2UrOUNBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiNTA5NDM0Njk4MjQ6MTJAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWHpXcGRDQkNMYnBLVEVlQmJpRkxXaVYyOVk0eGNmTmFyOWU1d3dsTkdRcSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTczMzk2MDY3NCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFKeWMifQ==
   process.env.SESSION_ID ||
   "PUT YOUR SESSION HERE"
 module.exports = {
@@ -50,10 +50,10 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "`BRAND PRODUCT OF 𝐉𝚰𝚴𝚮𝐘𝐔𝐊`",
-  author: process.env.PACK_AUTHER || "𝐉𝚰𝚴𝚮𝐘𝐔𝐊",
-  packname: process.env.PACK_NAME || "𝐉𝐈𝐍𝐇𝐘𝐔𝐊-𝐌𝐃",
-  botname: process.env.BOT_NAME || "𝐉𝚰𝚴𝚮𝐘𝐔𝐊-𝚳𝐃",
-  ownername: process.env.OWNER_NAME || "𝑃𝒂𝒚𝒆𝒓 𝑈𝒏𝒌𝒏𝒐𝒘𝒏",
+  author: process.env.PACK_AUTHER || "Fast",
+  packname: process.env.PACK_NAME || "Fast-𝐌𝐃",
+  botname: process.env.BOT_NAME || "Fast-𝚳𝐃",
+  ownername: process.env.OWNER_NAME || "fast_player",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "tCxobE1FqJgfbDZgsYQNHBFB",
@@ -64,7 +64,7 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "...d336",
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
   LANG: (process.env.THEME || "JINHUYK").toUpperCase(),
 };
 global.rank = "updated";
